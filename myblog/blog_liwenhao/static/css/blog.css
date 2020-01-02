@@ -1,0 +1,15 @@
+
+.content{
+    color: #000000;
+    font-size: 30px;
+    font-family: 钟齐立强行书简;
+    font-weight: bold;
+    line-height: 36px;
+    text-decoration: #000000;
+    text-indent: 60px;/*缩进*/
+    text-decoration: rgba(0,0,0,0.16) underline;
+}
+.sidebar{font-family:'Microsoft Yahei';
+	font-size:14px;
+}
+
